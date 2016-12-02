@@ -2,6 +2,12 @@
 layout: post
 title: You're up and running!
 ---
+### Messing with markdown
+1. this
+2. is
+3. a mess
+
+# 1. Tot0
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
