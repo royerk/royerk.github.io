@@ -3,7 +3,7 @@ layout: post
 title: Coders of the Caribean - Post Mortem
 ---
 ___
-# Coders of the Caribean - Post Mortem
+# Pirates, rum, cannonball and a pinch of Monte Carlo
 [Codingame.com](https://codingame.com)
 
 
