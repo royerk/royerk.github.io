@@ -5,7 +5,7 @@ title: Applying Neural Networks to Ultimate Tic Tac Toe
 ___
 # Introduction
 
-## An interesting AI challenge
+## An AI challenge adapted to machine learning
 
 When Ultimate Tic Tac Toe (*UT3*) first came out on [theAiGames](https://theaigames.com) I played a game against a friend on a piece of paper. I never played another one. Why ? I didn't find it very interesting. Some midgame moves were completely random and in the end it became quite hard to keep track of more than a few moves ahead.
 
