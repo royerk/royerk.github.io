@@ -7,7 +7,7 @@ ___
 
 Wondev Woman AI challenge was held from June 25th to July 3rd on [Codingame](www.codingame.com).
 
-First time I really managed to Keep It Simple Stupid! I initially thought that I would have plenty for this challenge. I was being naive.
+First time I really managed to Keep It Simple Stupid! I initially thought that I would have plenty of time for this challenge. I was being naive.
 
 ## Out of Wood 3 league
 Read actions, pick one at random.
