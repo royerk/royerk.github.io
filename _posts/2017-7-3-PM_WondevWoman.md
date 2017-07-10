@@ -4,7 +4,7 @@ title: Wondev Woman Post Mortem
 ---
 ___
 # K.I.S.S.
-Wondev Woman AI challenge was held from June 25th to July 3rd on [Codingame](www.codingame.com).
+Wondev Woman AI challenge was held from June 25th to July 3rd on [Codingame](www.codingame.com), final rank 180 / 2300.
 
 First time I really managed to Keep It Simple Stupid! I initially thought that I would have plenty of time for this challenge. I was being naive.
 
