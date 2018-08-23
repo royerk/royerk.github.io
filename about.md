@@ -4,13 +4,32 @@ title: About
 permalink: /about/
 ---
 
-## Me
+# Me
 
-### 2015 - 2017, data scientist for the France Homeland Security Department
+Machine learning engineer by day ([linkedIn](https://www.linkedin.com/in/kevinroyer01/)), AI developper by night ([codingame profile](https://www.codingame.com/profile/9bc17e6b33fac466efd942fe1b9ec57e3575541)).
 
-*WIP*
+## 2017 - 2018, Machine Learning Engineer at Brain (stealth startup)
 
-### 2009 - 2015, studies
+Moved to the US in autumn 2017 and landed a job in a startup trying to bring to reality a smarter virtual assistant.
+
+Top contributions:
+- Hierarchical text classification
+- Different Siamese Neural Network for sentence similarity
+
+This contribution allowed to company to move from a heuristic system to a trained system to deliver highly accurate results.
+
+## 2015 - 2017, Data Scientist for the France Homeland Security Department
+
+What am I able to say without being shot :p
+
+I worked on crime prediction and fleet managment optimization.
+Best result on crime prediction was based on a paper describing how to predict an earthquake's replicas. Like for crimes it's hard to predict an earthquake but if one happens then it's possible to leverage past activity to predict the replicas.
+
+Successfull implementation and training of this model led to a prototype. I left during its first test by users.
+
+Challenging projects and a potentially huge impact on people every day security. Best of all: every model worked without any personnal data only past history of crimes (or vehicle breakdown for the fleet optimization project).
+
+## 2009 - 2015, studies
 About myself: I did a master degree in aeronautical engineering (2009-2011) where I specialized in embedded systems. At the beginning of this degree I was quite fascinated by auto-pilots. Then I came to realize that, as complex as they can be, auto-pilots aren't very smart nor adaptive. Hopefully I had the opportunity to follow in parallel a master degree in computer science.
 
 Then I did a PhD (2012-2015) on a mixture of data engineering and data science. I built a system of data integration & storage based on an ontology in order to collect data on electrical vehicles (*EV*) users (the PhD was in partnership with an electricity provider).
@@ -28,6 +47,6 @@ By the end of my PhD I had a working work flow (from gathering raw data to high 
 Unfortunately the *EV* market didn't boomed as expected. So the potential harm that *EV* charging could do to electricity peak consumption didn't justify further development.
 
 
-### Contact me
+## Contact me
 
 [kroyer.github@gmail.com](kroyer.github@gmail.com)
