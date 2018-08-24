@@ -5,6 +5,7 @@ title: Legend of Code and Magic Post Mortem
 ___
 
 Ended up: xxxxxxxx, second time I reach legend \o/
+Until the last 24h I was able to reach rank 34 and be #1 US player but I ran out of ideas.
 
 # Intro
 Post mortem for the contest held by codingame.com: Legend of Code and Magic (Locam). First 4 weeks long contest on the platform, around a collectible card game with mechanisms similar to The Elder Scroll: Legend.
