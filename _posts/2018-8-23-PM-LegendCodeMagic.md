@@ -4,19 +4,20 @@ title: Legend of Code and Magic Post Mortem
 ---
 ___
 
-Ended up: xx / 2,174, second time I reach legend \o/
+# Best result in a contest so far
+Ended up: 56 / 2,174 (USA #2), second time I reach legend \o/
 
-Until the last 24h I was able to reach rank 34 and be #1 US player but I ran out of ideas.
+Until the last 24h I was able to reach rank 34 and be #1 USA player but I ran out of ideas.
 
 # Intro
 Post mortem for the contest held by codingame.com: Legend of Code and Magic (Locam). First 4 weeks long contest on the platform, around a collectible card game with mechanisms similar to The Elder Scroll: Legend.
 
-A lot of people to thank: **aCat** and **radekmie** and the **CG team** for the game. **aCat** (again) and **reCurse** for the twitch lives, I made great progress in terms of coding and understanding the game a little better.
-French and general chat (and discord) had super interesting conversation about meta, strategies, etc (**Naab** for organizing my card scoring function better, **AIDevOOps** for the quick optimization discussion that gave good ideas to test, and many more!).
+A lot of people to thank: **aCat** and **radekmie** and the **CG team** for the game. **aCat&radekmie** (again) and **reCurse** for the twitch lives, I made great progress in terms of coding and understanding the game a little better.
+French and general chat (and discord) had super interesting conversation about meta, strategies, etc (**Naab** for organizing my card scoring function better, **AIDevOOps** for the quick optimization discussion that gave me good ideas to test, and many more!).
 
 Very happy about the format, it gave me enough time to implement every idea I had and improve upon them methodically (testing one feature at a time!).
 
-I regret the lack of "AI" elements in my draft part of the game, I used hand tuned scores for each card. Most of them were defined by mimicking the players... The small depth for the simulations (depth 1) and the high branching factor allowed me to spend time on code optimization, hash tables...
+I regret the lack of "AI" in my draft part of the game, I used hand tuned scores for each card. Most of them were defined by mimicking the players... The small depth for the simulations (depth 1) and the high branching factor allowed me to spend time on code optimization, hash tables...
 
 # The Bot
 
