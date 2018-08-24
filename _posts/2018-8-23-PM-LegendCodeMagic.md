@@ -4,7 +4,7 @@ title: Legend of Code and Magic Post Mortem
 ---
 ___
 
-Ended up: xxxxxxxx, second time I reach legend :)
+Ended up: xxxxxxxx, second time I reach legend \o/
 
 # Intro
 Post mortem for the contest held by codingame.com: Legend of Code and Magic (Locam). First 4 weeks long contest on the platform, around a collectible card game with mechanisms similar to The Elder Scroll: Legend.
@@ -23,9 +23,9 @@ Hand made static scores for each card. No blue items.
 
 ## Trade simulations
 I had a DFS considering:
-- the cards I play from my hand
-- the attacks my creatures can do
-- I ended up with an approximation for simulating the opponent. I assume the opponent will play each card in order to minimize my score: for his N cards: test the change of score for each of his creature against me or a creature => 3 `for` loop.
+- First the cards I can play from my hand.
+- Then the attacks my creatures can do.
+- Finally, I ended up with an approximation for simulating the opponent. I assume the opponent will play each card in order to minimize my score: for his N cards: test the change of score for each action, apply the best one => 3 `for` loops.
 
 It turns out that fully simulating the opponent turn was worse than my approximation (and sometimes timeouting). Probably because simulating the opponent is an approximation too and certainly because my evaluation function wasn't good enough.
 
@@ -41,8 +41,15 @@ To avoid time out or using a break on time:
    - linear combination of attack score, defense score and sqrt(attack * defense)
    - no bonus for guard
 
-Different attempt to take drain and breakthrough without much success. In the end I tried to have a board control evaluation: consider runes and card draw vs card in hands/board, no success.
+Different attempt to take drain and breakthrough into account without much success. In the end I did unfortunate attempts to have a board control evaluation: consider runes and card draw vs card in hands/board.
 
 # Outro
 
 Fun game, it feels like it started last week and not 4 weeks ago.
+
+# Resources
+
+- [Codingame](www.codingame.com)
+- [Post Mortems on codingame](https://www.codingame.com/forum/t/legends-of-code-magic-cc05-feedback-strategies/50996/5)
+- [reCurse stream](https://www.youtube.com/watch?v=BU9b445CpaM)
+- [aCat and Radekmie stream](https://www.youtube.com/watch?v=GQPCvs12R64&list=PLarKb0MFLwmjussHoTGnzQNV22drlgA6A)
