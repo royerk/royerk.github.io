@@ -55,3 +55,4 @@ Fun game, it feels like it started last week and not 4 weeks ago.
 - [Post Mortems on codingame](https://www.codingame.com/forum/t/legends-of-code-magic-cc05-feedback-strategies/50996/5)
 - [reCurse stream](https://www.youtube.com/watch?v=BU9b445CpaM)
 - [aCat and Radekmie stream](https://www.youtube.com/watch?v=GQPCvs12R64&list=PLarKb0MFLwmjussHoTGnzQNV22drlgA6A)
+- Reinforcement learning approach (value network) [here](https://github.com/eiisolver/LegendsOfCodeAndMagic/blob/master/README.md)
