@@ -4,7 +4,8 @@ title: Legend of Code and Magic Post Mortem
 ---
 ___
 
-Ended up: xxxxxxxx, second time I reach legend \o/
+Ended up: xx / 2,174, second time I reach legend \o/
+
 Until the last 24h I was able to reach rank 34 and be #1 US player but I ran out of ideas.
 
 # Intro
